@@ -1,8 +1,1 @@
-com/example/grpc/server/grpcserver/MatrixServiceGrpc$MatrixServiceStub.class
-com/example/grpc/server/grpcserver/MatrixServiceGrpc$MatrixServiceDescriptorSupplier.class
-com/example/grpc/server/grpcserver/MatrixServiceGrpc$MatrixServiceBlockingStub.class
-com/example/grpc/server/grpcserver/MatrixServiceGrpc$MatrixServiceImplBase.class
-com/example/grpc/server/grpcserver/MatrixServiceGrpc$MethodHandlers.class
-com/example/grpc/server/grpcserver/MatrixServiceGrpc.class
 com/example/grpc/server/grpcserver/MatrixServiceGrpc$1.class
-com/example/grpc/server/grpcserver/MatrixServiceGrpc$MatrixServiceFutureStub.class
