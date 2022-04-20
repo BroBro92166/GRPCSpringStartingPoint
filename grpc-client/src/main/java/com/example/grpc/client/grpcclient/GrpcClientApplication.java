@@ -14,6 +14,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 
 //@SpringBootApplication(exclude = {ErrorMvcAutoConfiguration.class})
+@SpringBootApplication
 @ComponentScan(basePackages = ("com.example.grpc.client.grpcclient"))
 public class GrpcClientApplication extends SpringBootServletInitializer {
 
