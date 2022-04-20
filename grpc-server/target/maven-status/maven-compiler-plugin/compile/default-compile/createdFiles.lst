@@ -1,0 +1,2 @@
+application.properties
+com/example/grpc/server/grpcserver/MatrixServiceGrpc$1.class
